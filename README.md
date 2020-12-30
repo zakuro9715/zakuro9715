@@ -24,5 +24,5 @@
 
 <p align="center">
   <img width="480" src="https://raw.githubusercontent.com/zakuro9715/sena/master/specials/most-cute/sena.png">
-  My family, 'Sena'
+  <p align="center">My family, 'Sena'</p>
 </p>

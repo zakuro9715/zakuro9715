@@ -1,5 +1,5 @@
-![sena](https://raw.githubusercontent.com/zakuro9715/sena/master/specials/most-cute/sena.png)
 <p align="center">
+  <img width="480" src="https://raw.githubusercontent.com/zakuro9715/sena/master/specials/most-cute/sena.png"
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <img src="https://raw.githubusercontent.com/zakuro9715/zakuro9715/main/profile-summary-card-output/nord_dark/0-profile-details.svg">
   </a>

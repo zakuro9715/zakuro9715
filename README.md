@@ -10,19 +10,19 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://raw.githubusercontent.com/zakuro9715/zakuro9715/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg">
-  </a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://raw.githubusercontent.com/zakuro9715/zakuro9715/main/profile-summary-card-output/nord_dark/3-stats.svg">
-  </a>
+  <span>
+    <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+      <img src="https://raw.githubusercontent.com/zakuro9715/zakuro9715/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg">
+    </a>
+    <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+      <img src="https://raw.githubusercontent.com/zakuro9715/zakuro9715/main/profile-summary-card-output/nord_dark/3-stats.svg">
+    </a>
+  </span>
 </p>
 
 ---
 
 <p align="center">
-  <figure align="center">
-    <img width="480" src="https://raw.githubusercontent.com/zakuro9715/sena/master/specials/most-cute/sena.png">
-    <figcaption>My family</figcaption>
-  </figure>
+  <img width="480" src="https://raw.githubusercontent.com/zakuro9715/sena/master/specials/most-cute/sena.png">
+  My family, 'Sena'
 </p>

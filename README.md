@@ -9,6 +9,12 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=zakuro9715&row=1&theme=dracula">
   </a>
+</p>
+
+<br />
+
+<p align="center">
+
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <img src="https://raw.githubusercontent.com/zakuro9715/zakuro9715/main/profile-summary-card-output/nord_dark/0-profile-details.svg">
   </a>

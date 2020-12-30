@@ -21,7 +21,7 @@
 ---
 
 <p align="center">
-  <figure>
+  <figure align="center">
     <img width="480" src="https://raw.githubusercontent.com/zakuro9715/sena/master/specials/most-cute/sena.png">
     <figcaption>My family</figcaption>
   </figure>

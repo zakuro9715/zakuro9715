@@ -7,7 +7,6 @@
   </a>
 </p>
 
----
 
 <p align="center">
   <span>

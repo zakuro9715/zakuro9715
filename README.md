@@ -7,6 +7,7 @@
   </a>
 </p>
 
+<br />
 
 <p align="center">
   <span>
@@ -19,7 +20,8 @@
   </span>
 </p>
 
----
+<br />
+<br />
 
 <p align="center">
   <img width="480" src="https://raw.githubusercontent.com/zakuro9715/sena/master/specials/most-cute/sena.png">

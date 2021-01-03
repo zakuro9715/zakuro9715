@@ -7,5 +7,11 @@
 
 ## ステータス
 
-無職
-放送大学在学中
+- 無職
+- 放送大学在学中
+
+## リンク
+
+- [Wantedly](https://www.wantedly.com/id/zakuro9715)
+- [Qiita](https://qiita.com/zakuro9715)
+- [Zenn](https://zenn.dev/zakuro9715)

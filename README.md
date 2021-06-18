@@ -11,8 +11,18 @@
     <img src="https://github-profile-trophy.vercel.app/?username=zakuro9715&row=1&theme=dracula">
   </a>
 </p>
+
+<br />
+
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?theme=dracula&username=zakuro9715&count_private=true&include_all_commits=true"
-  </a> 
+
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/zakuro9715/zakuro9715/main/profile-summary-card-output/nord_dark/0-profile-details.svg">
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/zakuro9715/zakuro9715/main/profile-summary-card-output/nord_dark/3-stats.svg">
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/zakuro9715/zakuro9715/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg">
+  </a>
 </p>

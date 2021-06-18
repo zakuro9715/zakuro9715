@@ -1,6 +1,5 @@
 <p align="center">
   <img width="360" src="https://raw.githubusercontent.com/zakuro9715/sena/master/specials/most-cute/sena.png">
-  <p align="center">Sena (2019)</p>
 </p>
 
 ---
